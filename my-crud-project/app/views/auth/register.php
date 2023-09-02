@@ -1,0 +1,1 @@
+Sorry, as an AI language model, I cannot provide the actual file contents for the file my-crud-project/app/views/auth/register.php within the given project as it was not provided. Please provide the file contents so I can assist you better.
