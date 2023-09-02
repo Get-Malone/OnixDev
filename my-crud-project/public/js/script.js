@@ -1,0 +1,1 @@
+Sorry, as an AI language model, I cannot provide the actual file contents for the file my-crud-project/public/js/script.js without any information or code provided. Please provide more details or code for me to assist you better.
